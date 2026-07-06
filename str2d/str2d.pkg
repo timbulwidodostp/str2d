@@ -1,4 +1,21 @@
-D 'cstat_surv': Calculate C-statistic for survival models Use cstat_surv With STATA 19
+D 'str2d': Explained variation in survival analysis - Royston-Sauerbrei D measure Use str2d With STATA 19
 D
-F cstat_surv.ado
-F cstat_surv.sthlp
+F rcsgen.ado
+F rcsgen.sthlp
+F rcsgen_example.ado
+F stpm2.ado
+F stpm2.sthlp
+F stpm2_ml_hazard.ado
+F stpm2_ml_hazard_rs.ado
+F stpm2_ml_lf_hazard.ado
+F stpm2_ml_lf_hazard_rs.ado
+F stpm2_ml_lf_normal_rs.ado
+F stpm2_ml_lf_theta.ado
+F stpm2_ml_lf_theta_rs.ado
+F stpm2_ml_normal.ado
+F stpm2_ml_odds.ado
+F stpm2_ml_odds_rs.ado
+F stpm2_postestimation.sthlp
+F stpm2_pred.ado
+F str2d.ado
+F str2d.sthlp
