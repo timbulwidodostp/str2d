@@ -2,4 +2,4 @@
 1
 2
 3
-p cstat_surv Calculate C-statistic for survival models Use cstat_surv With STATA 19
+p str2d Explained variation in survival analysis - Royston-Sauerbrei D measure Use str2d With STATA 19
